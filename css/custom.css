@@ -2912,7 +2912,9 @@ main #howitworks #howitworks-wrapper .howitworks-item .howitworks-item-inner hr 
     width: 100%;
 }
 
-
+#howitworks-wrapper .howitworks-diagram{
+    width: 100%;
+}
 
 
 @media only screen and (min-width: 1285px){
